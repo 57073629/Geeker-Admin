@@ -6,7 +6,7 @@ Geeker-Admin 一款基于 Vue3.3、TypeScript、Vite4、Pinia、Element-Plus 开
 
 ### 在线预览 👀
 
-- Link：https://admin.spicyboy.cn
+- Link：[https://admin.spicyboy.cn](https://geeker-admin-six.vercel.app/#/proTable/useSelectFilter)
 
 ### 代码仓库 ⭐
 
